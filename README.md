@@ -7,6 +7,10 @@ This repository provides a **beginner-friendly and transparent** way to estimate
 The goal is not to give buy/sell recommendations, but to help understand *how valuation works*.
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/nuralibasyah/intrinsic-value-calculator/blob/main/notebooks/Copy%20to%20Colab%20-%20Fair%20Value%20Calculator.ipynb)
+
+
 ---
 
 

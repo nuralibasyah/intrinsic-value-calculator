@@ -7,7 +7,7 @@ This repository provides a **beginner-friendly and transparent** way to estimate
 The goal is not to give buy/sell recommendations, but to help understand *how valuation works*.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nuralibasyah/intrinsic-value-calculator/blob/main/notebooks/Copy%20to%20Colab%20-%20Fair%20Value%20Calculator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nuralibasyah/intrinsic-value-calculator/blob/main/notebooks/Fair_and_Intrinsic_Value_Calculator.ipynb)
 
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-red?logo=ko-fi&logoColor=white)](https://ko-fi.com/nuralibasyah)
 [![Saweria](https://img.shields.io/badge/Donate-Saweria-orange)](https://saweria.co/nuralibasyah)
@@ -37,7 +37,7 @@ The goal is not to give buy/sell recommendations, but to help understand *how va
 You can run this project directly in **Google Colab**:
 
 
-1. Click **Open in Colab** button: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nuralibasyah/intrinsic-value-calculator/blob/main/notebooks/Copy%20to%20Colab%20-%20Fair%20Value%20Calculator.ipynb) and copy to your google account.
+1. Click **Open in Colab** button: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nuralibasyah/intrinsic-value-calculator/blob/main/notebooks/Fair_and_Intrinsic_Value_Calculator.ipynb) and copy to your google account.
 2. Inside the notebook, you will be prompted to upload your fundamental CSV. Use the template.csv as a template and you can add your own data.
 3. Run all cells.
 
